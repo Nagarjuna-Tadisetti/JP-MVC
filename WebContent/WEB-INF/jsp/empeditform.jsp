@@ -22,7 +22,7 @@
   </div>
 </nav>
  <div class="container" style="width:400px;margin:0 auto;"> 
-		<h1>Edit Employee</h1>
+		<h2>Edit Employee</h2><br>
        <form:form method="POST" action="/JP-MVC/editsave">  
       	<table >  
       	<tr>

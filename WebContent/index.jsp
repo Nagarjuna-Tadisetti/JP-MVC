@@ -20,8 +20,8 @@
   </div>
 </nav>
   
-<div class="container" style="width:400px;margin:0 auto;">
-  <h3>Employee DB Management</h3>
+<div class="container" style="width:400px;margin:0 auto;"><br><br>
+  <h3>Employee DB Management</h3><br><br>
   <a href="empform"><button type="button" class="btn btn-default">Add Employees</button></a>
   <a href="viewemp"><button type="button" class="btn btn-default">View Employees</button></a>
 </div>

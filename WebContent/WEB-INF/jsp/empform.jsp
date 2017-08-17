@@ -24,13 +24,13 @@
   
 <div class="container" style="width:400px;margin:0 auto;">
 
-		<h1>Add New Employee</h1>
+		<h2>Add New Employee</h2><br>
        <form:form method="post" action="save">  
-      	<table >  
+      	<table>  
          <tr>  
           <td>Name  </td> 
           <td><form:input path="name"  /></td>
-         </tr>  
+         </tr>
          <tr>  
           <td>Salary </td>  
           <td><form:input path="salary" /></td>
